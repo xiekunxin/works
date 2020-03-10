@@ -1,6 +1,6 @@
 # 谢坤鑫 作品集
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+Jekyll theme based on 
 
 ## How to use
  - Place a image in `/img/services/`
@@ -31,7 +31,7 @@ https://mp.weixin.qq.com/s/KBI22scOsxCdoUca8orX4w
 https://mp.weixin.qq.com/s/VFZK1Bxj2YDjwFFsvKeshQ
 
 ## Link 视频
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+
 
 ===
 
@@ -40,7 +40,6 @@ This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachau
 
 ## License
 The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
-
+2.0]
 ## Version
 1.0.1
