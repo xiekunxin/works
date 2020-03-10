@@ -30,6 +30,8 @@ https://mp.weixin.qq.com/s/KBI22scOsxCdoUca8orX4w
 测评 | 2019年佛山50km徒步南海线最接地气实战测评  
 https://mp.weixin.qq.com/s/VFZK1Bxj2YDjwFFsvKeshQ
 
+[测评 | 2019年佛山50km徒步南海线最接地气实战测评 ](https://mp.weixin.qq.com/s/VFZK1Bxj2YDjwFFsvKeshQ) as reference.
+
 ## Link 视频
 
 
