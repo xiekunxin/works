@@ -52,8 +52,11 @@ The description of this service
 
 ===
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+[Surf城市边缘 介绍短片 ](https://www.bilibili.com/video/av95118528 )
+
+[孤岛露营 vlog] (https://www.bilibili.com/video/av95119632) 
+
+[清莱度假 vlog](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg)
 
 ## License
 The contents of this repository are licensed under the [Apache
