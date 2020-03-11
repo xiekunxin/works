@@ -54,7 +54,7 @@ The description of this service
 
 [Surf城市边缘 介绍短片 ](https://www.bilibili.com/video/av95118528 )
 
-[孤岛露营 vlog] (https://www.bilibili.com/video/av95119632) 
+[孤岛露营 vlog](https://www.bilibili.com/video/av95119632) 
 
 [清莱度假 vlog](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg)
 
