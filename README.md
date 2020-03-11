@@ -52,11 +52,11 @@ The description of this service
 
 ===
 
-[Surf城市边缘 介绍短片 ](https://www.bilibili.com/video/av95118528 )
+[Surf城市边缘 介绍片 ](https://www.bilibili.com/video/av95118528 )
 
-[孤岛露营 vlog](https://www.bilibili.com/video/av95119632) 
+[【surf 广州】你试过吗？一伙人霸占一个岛！](https://www.bilibili.com/video/av95119632) 
 
-[清莱度假 vlog](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg)
+[【surf 台湾】我在太平洋旁边天气晴](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg)
 
 ## License
 The contents of this repository are licensed under the [Apache
