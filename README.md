@@ -43,9 +43,7 @@ The description of this service
 
 [攻略分享|一次完整的野餐到底该准备什么？](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg) 
 
-
-  
-=== 此部分文案均属微信文章，点击即可跳转链接 === 
+>>>>>>>>>> 点击标题即可跳转链接
 
 ## Link 视频
 
@@ -55,8 +53,8 @@ The description of this service
 
 [【surf 台湾】我在太平洋旁边天气晴](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg)
   
-  
-  ===
+>>>>>>>>>> 点击标题即可跳转链接  
+ 
 
 ## License
 The contents of this repository are licensed under the [Apache
