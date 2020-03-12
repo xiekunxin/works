@@ -42,8 +42,7 @@ The description of this service
 [测评 | 2019年佛山50km徒步南海线最接地气实战测评 ](https://mp.weixin.qq.com/s/VFZK1Bxj2YDjwFFsvKeshQ) 
 
 [攻略分享|一次完整的野餐到底该准备什么？](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg) 
-
-> 点击标题即可跳转链接  
+ 
 
 ## Link 视频
 
@@ -53,7 +52,7 @@ The description of this service
 
 [【surf 台湾】我在太平洋旁边天气晴](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg)  
 
-> 点击上方标题即可跳转链接  
+  
  
 
 ## Link 其他
