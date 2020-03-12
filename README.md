@@ -56,9 +56,12 @@ The description of this service
 > 点击上方标题即可跳转链接  
  
 
-## License
-The contents of this repository are licensed under the [Apache
-2.0]
+## Link 其他
+
+[【surf 城市边缘】APP原型制作   ](http://xiekunxin.gitee.io/app_team  )
+
+[【surf 城市边缘】APP说明文档   ](https://gitee.com/xiekunxin/APP_team/wikis  )
+
 ## 联系方式
 1.0.1  电话：15914206148  
 1.0.2  邮箱：3048389236@qq.com
