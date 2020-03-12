@@ -6,8 +6,7 @@
 
 [好物尝鲜|羽绒只要5折！爆吼！冲呀！](https://mp.weixin.qq.com/s/2L7QlujxA5kdB_c5u-q_Ag )
 
-[好物尝鲜|5折就能到手的高级感，不来试下吗？](https://mp.weixin.qq.com/s/HoLg0lMcuNV6u-m8QAoEmg)  
-
+[好物尝鲜|5折就能到手的高级感，不来试下吗？](https://mp.weixin.qq.com/s/EHw1VU6HFfFS1NZdCJxdUg)  
 
 `/旅行向/`  
 
