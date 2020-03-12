@@ -1,20 +1,5 @@
 # 谢坤鑫 作品集
 
-作品集主要是文案以及视频两个板块，文案部分为自己所
-
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
-
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
-```
 
 ## Link 文案
 
