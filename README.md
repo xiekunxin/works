@@ -1,6 +1,9 @@
 ## Link 文案
 
 `/商业向/`
+[那些职场晋升快的人有哪些特点？这个技能越早掌握越好！终身受益！](https://mp.weixin.qq.com/s/jB84CyaXU7nwID4pTWkqSQ)
+
+[李子柒进驻微信“视频号”，热度不敌素人：这个短视频赛道，暗藏着巨大红利](https://mp.weixin.qq.com/s/ynqNVAVtCxhPLs2Z2o9Zfw )
 
 [反季清仓季！低至74元！搞定早秋卫衣](https://mp.weixin.qq.com/s/Fv47IRTZ0c1RbcD4d1SBrg )
 
