@@ -16,7 +16,7 @@
 
 [你试过吗？拥有一座自己的岛屿 ](https://mp.weixin.qq.com/s/KBI22scOsxCdoUca8orX4w  )
 
-[美好回顾 | 去南坪静修小镇走近向往的生活吧！](https://mp.weixin.qq.com/s/PYn-2C10SAQ6I8jeec6JXQ  )
+[小众阳朔 | 有诚意且自由地活着](https://mp.weixin.qq.com/s/o8nB0BkYNL4Ca9Jh9VcqQw )
 
 [你的台湾 | 你只看过22%的台湾，而我们想要给你另外77%的Ta ](https://mp.weixin.qq.com/s/At9pWn3mAmFnZE96LtFDYQ ) 
 
